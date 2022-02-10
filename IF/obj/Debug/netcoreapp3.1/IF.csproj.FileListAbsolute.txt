@@ -1,0 +1,13 @@
+C:\Users\dima9\source\repos\Boolean\IF\bin\Debug\netcoreapp3.1\IF.exe
+C:\Users\dima9\source\repos\Boolean\IF\bin\Debug\netcoreapp3.1\IF.deps.json
+C:\Users\dima9\source\repos\Boolean\IF\bin\Debug\netcoreapp3.1\IF.runtimeconfig.json
+C:\Users\dima9\source\repos\Boolean\IF\bin\Debug\netcoreapp3.1\IF.runtimeconfig.dev.json
+C:\Users\dima9\source\repos\Boolean\IF\bin\Debug\netcoreapp3.1\IF.dll
+C:\Users\dima9\source\repos\Boolean\IF\bin\Debug\netcoreapp3.1\IF.pdb
+C:\Users\dima9\source\repos\Boolean\IF\obj\Debug\netcoreapp3.1\IF.AssemblyInfoInputs.cache
+C:\Users\dima9\source\repos\Boolean\IF\obj\Debug\netcoreapp3.1\IF.AssemblyInfo.cs
+C:\Users\dima9\source\repos\Boolean\IF\obj\Debug\netcoreapp3.1\IF.csproj.CoreCompileInputs.cache
+C:\Users\dima9\source\repos\Boolean\IF\obj\Debug\netcoreapp3.1\IF.dll
+C:\Users\dima9\source\repos\Boolean\IF\obj\Debug\netcoreapp3.1\IF.pdb
+C:\Users\dima9\source\repos\Boolean\IF\obj\Debug\netcoreapp3.1\IF.genruntimeconfig.cache
+C:\Users\dima9\source\repos\Boolean\IF\obj\Debug\netcoreapp3.1\IF.csprojAssemblyReference.cache
